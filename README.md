@@ -4,8 +4,8 @@
 
 ## 網頁版面
 
-![img]()
+![img](https://github.com/wdaweb/bs-component-layout-adad09382/blob/main/README-BS-PC.gif)
 
 ## 手機版面
 
-![img]()
+![img](https://github.com/wdaweb/bs-component-layout-adad09382/blob/main/README-BS-MOBILE.gif)
